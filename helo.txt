@@ -1,1 +1,1 @@
-ECHO is on.
+second text
